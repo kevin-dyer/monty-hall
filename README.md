@@ -11,11 +11,13 @@ The game is repeated n number of times and the outcomes (who won) for each of th
 
 The average wins are then reported for each strategy.
 
+
 **How to play:**
 
 `python3 game.py`
 
 - To change the number of iterations, edit the integer passed into the measure_game call at the end of game.py.
+
 
 **Results:**
 
@@ -23,6 +25,7 @@ As more games are played, the averages settle on:
 - No Switch: win 33% of the time
 - Always Switch: win 66% of the time
 - Randomly Switch: win 50% of the time
+
 
 **Conclusion:**
 
